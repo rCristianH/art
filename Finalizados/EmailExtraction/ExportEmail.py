@@ -1,4 +1,3 @@
-from ast import pattern
 import re
 
 str = "Please contact info@sololearn.com.co ccrhdbj@outlook.com for assistance"
